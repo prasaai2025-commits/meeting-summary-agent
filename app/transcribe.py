@@ -1,4 +1,4 @@
-import whisper
+from faster_whisper import WhisperModel
 import subprocess
 import os
 
